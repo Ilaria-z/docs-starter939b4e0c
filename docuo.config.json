@@ -8,7 +8,9 @@
       "items": [
         {
           "type": "docSidebar",
-          "sidebarIds": ["mySidebar"],
+          "sidebarIds": [
+            "mySidebar"
+          ],
           "label": "Documentation",
           "position": "left"
         }
@@ -59,6 +61,11 @@
     "petstore": {
       "specPath": "docs/Using OpenAPI/OpenAPI Demo/petstore.yaml",
       "outputDir": "docs/Using OpenAPI/OpenAPI Demo"
+    }
+  },
+  "analytics": {
+    "ga4": {
+      "measurementId": "G-HV99M8W8VN"
     }
   }
 }
